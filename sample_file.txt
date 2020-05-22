@@ -1,2 +1,2 @@
-## blank file for test
+## blank file for testing only
 
